@@ -6,10 +6,10 @@ Useful links for Kronosteam repositories.
 
 | Repository | Purpose |
 |---|---|
-| [android](https://github.com/Kronosteam/android) | Android app |
-| [ios](https://github.com/Kronosteam/ios) | iOS app |
-| [dashboard](https://github.com/Kronosteam/dashboard) | Web dashboard |
+| [android](https://github.com/centris-events/android) | Android app |
+| [ios](https://github.com/centris-events/ios) | iOS app |
+| [dashboard](https://github.com/centris-events/dashboard) | Web dashboard |
 
 ## Quick links
 
-[All repositories](https://github.com/orgs/Kronosteam/repositories)
+[All repositories](https://github.com/orgs/centris-events/repositories)
